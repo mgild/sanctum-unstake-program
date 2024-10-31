@@ -7,7 +7,7 @@ anchor-lang = "0.28.0"
 anchor-spl = "0.28.0"
 base64 = "0.21.2"
 clap = { version = "^4.0" }
-clap2 = { package = "clap", version = "^2.0" }   
+clap2 = { package = "clap", version = "^2.0" }
 borsh = ">=0.9"
 derive_more = "^0.99"
 mpl-token-metadata = "^1"
@@ -28,7 +28,7 @@ solana-clap-utils = "^1"
 solana-cli-config = "^1"
 solana-client = "^1"
 solana-sdk = "^1"
-solana-program = "^1"
+solana-program = "=1.18.22"
 solana-stake-program = "^1"
 
 # workspace members
