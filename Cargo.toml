@@ -8,7 +8,7 @@ anchor-spl = "0.28.0"
 base64 = "0.21.2"
 clap = { version = "^4.0" }
 clap2 = { package = "clap", version = "^2.0" }
-borsh = "=0.10"
+borsh = "^0.9"
 derive_more = "^0.99"
 mpl-token-metadata = "^1"
 num-derive = ">=0.1"
