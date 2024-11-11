@@ -28,7 +28,7 @@ solana-clap-utils = "^1,<2"
 solana-cli-config = "^1,<2"
 solana-client = "^1,<2"
 solana-sdk = "^1,<2"
-solana-program = "=1.18.25"
+solana-program = "^1.18,<2"
 solana-stake-program = "^1,<2"
 
 # workspace members
